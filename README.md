@@ -1,6 +1,6 @@
 # Netflix Clone Using React (Custom Hooks, Context, Portals), Firebase, Compound & Styled Components
 
-This application (a Netflix clone) was built using React (Custom Hooks, Context), Firebase & Styled Components. This project has multiple pages: Home, Browse (which uses Firebase authentication), sign in, and sign up. The sign in will connect to Firebase when a user tries to sign in, and when a user signs up, we use Firebase auth to store the user in the Firebase auth database. This app was built using React and uses Styled Components for all the styling implemented. Fuse.js was for live search, and we will test all our components using React Testing Library. And of course React router was used for navigation!
+This application (a Netflix clone) was built using React (Custom Hooks, Context), Firebase & Styled Components. This project has multiple pages: Home, Browse (which uses Firebase authentication), sign in, and sign up. The sign in will connect to Firebase when a user tries to sign in, and when a user signs up, we use Firebase auth to store the user in the Firebase auth database. This app was built using React and uses Styled Components for all the styling implemented. Fuse.js was used for live search, and we will test all our components using React Testing Library. And of course React router was used for navigation!
 
 # Browse Page
 ![screencapture-localhost-3000-browse-2021-03-31-01_40_54](https://user-images.githubusercontent.com/54131236/112990427-8b332580-91c2-11eb-8e89-91703fc43953.png)
