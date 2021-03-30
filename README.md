@@ -1,3 +1,20 @@
+# Netflix Clone Using React (Custom Hooks, Context, Portals), Firebase, Compound & Styled Components
+
+This application (a Netflix clone) was built using React (Custom Hooks, Context), Firebase & Styled Components. This project has multiple pages: Home, Browse (which uses Firebase authentication), sign in, and sign up. The sign in will connect to Firebase when a user tries to sign in, and when a user signs up, we use Firebase auth to store the user in the Firebase auth database. This app was built using React and uses Styled Components for all the styling implemented. Fuse.js was for live search, and we will test all our components using React Testing Library. And of course React router was used for navigation!
+
+# Browse Page
+![screencapture-localhost-3000-browse-2021-03-31-01_40_54](https://user-images.githubusercontent.com/54131236/112990427-8b332580-91c2-11eb-8e89-91703fc43953.png)
+
+# Home Page
+![screencapture-localhost-3000-2021-03-31-01_42_03](https://user-images.githubusercontent.com/54131236/112990451-925a3380-91c2-11eb-807c-b227d750aea9.png)
+
+# Sign In Page
+![screencapture-localhost-3000-signin-2021-03-31-01_41_32](https://user-images.githubusercontent.com/54131236/112990459-938b6080-91c2-11eb-9d43-879250cb22b7.png)
+
+# Sign Up Page
+![screencapture-localhost-3000-signup-2021-03-31-01_41_51](https://user-images.githubusercontent.com/54131236/112990463-94bc8d80-91c2-11eb-934c-26afcc857ef1.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
